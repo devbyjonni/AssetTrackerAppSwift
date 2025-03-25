@@ -1,0 +1,5 @@
+{
+  "swift.path" : "\/usr\/bin\/swift",
+  "swift.lldb.displayFormat" : "auto",
+  "swift.lldb.suppressMissingModuleWarning" : true
+}
